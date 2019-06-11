@@ -9,8 +9,8 @@ echo "
 
 Copyright (c) 2018 ceweberbatang Ganteng";
 echo "";
-read -p "Nomer Kamu (+62xxxx)=> " nomer;
-read -p "Nomer Target (+62xxxx) => " target;
+read -p "Nomer Kamu (+91xxxx)=> " nomer;
+read -p "Nomer Target (+91xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
 sleep 1
